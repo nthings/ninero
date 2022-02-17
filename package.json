@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
-  "version": "10.4.1",
-  "description": "Angular 13 with Electron 16 (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "name": "ninero",
+  "version": "0.0.1",
+  "description": "Automating my money budget.",
+  "homepage": "https://github.com/nthings/ninero",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Mauricio NTHINGs Martinez",
+    "email": "nthings.m@gmail.com"
   },
   "keywords": [
     "angular",
