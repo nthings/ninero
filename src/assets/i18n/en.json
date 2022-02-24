@@ -1,7 +1,8 @@
 {
   "PAGES": {
       "HOME": {
-          "TITLE": "App works !",
+          "BANAMEX": "Cargar Datos de Banamex",
+          "TITLE": "Dashboard",
           "GO_TO_DETAIL": "Go to Detail"
       },
       "DETAIL": {
